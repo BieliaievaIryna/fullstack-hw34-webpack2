@@ -94,7 +94,7 @@ filename: '[name].[fullhash].js'
 
 ### Підтримка стилів
 
--CSS через `css-loader` + `mini-css-extract-plugin`
+- CSS через `css-loader` + `mini-css-extract-plugin`
 - LESS та SCSS підтримуються відповідними loader'ами
 
 ### Підтримка JSX, TypeScript і Babel

@@ -69,7 +69,9 @@ module.exports = {
       '@': path.resolve(__dirname, 'src'),
       '@model': path.resolve(__dirname, 'src/model'),
       '@css': path.resolve(__dirname, 'src/css'),
-      '@assets': path.resolve(__dirname, 'src/assets')
+      '@assets': path.resolve(__dirname, 'src/assets'),
+      '@less': path.resolve(__dirname, 'src/less'),
+      '@sass': path.resolve(__dirname, 'src/sass')
     }
   },
   optimization: optimization(),
